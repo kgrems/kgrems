@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kgrems
+- 👀 I arrange 1's and 0's into clever patterns that do interesting things...
+- 🌱 I’m currently learning Blockchain ...
+- 💞️ I’m looking to collaborate on crypto ...
+
+<!---
+kgrems/kgrems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
